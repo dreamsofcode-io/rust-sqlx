@@ -1,6 +1,6 @@
 This repository stores the code and SQL examples from the associated YouTube
 video found at 
-[this channel](https://studio.youtube.com/channel/UCWQaM7SpSECp9FELz-cHzuQ)
+[this channel](https://www.youtube.com/watch?v=TCERYbgvbq0)
 
 ## Setup Database
 In order to setup the database, you can use the following command with Docker 
